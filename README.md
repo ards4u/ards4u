@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ards4u
-- 👀 I’m interested in ...
+- 👀 I’m interested in ...Datascince
 - 🌱 I’m currently learning ...Python and willing to explore datascience field  
 - 💞️ I’m looking to collaborate on ...my learnings  
 - 📫 How to reach me ...insta
